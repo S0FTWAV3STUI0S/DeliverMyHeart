@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+    {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fMonogram","order":3,"path":"fonts/fMonogram/fMonogram.yy",},
+    {"name":"oDropper","order":3,"path":"objects/oDropper/oDropper.yy",},
+    {"name":"oHeart","order":1,"path":"objects/oHeart/oHeart.yy",},
+    {"name":"oHintClickMailBoxes","order":6,"path":"objects/oHintClickMailBoxes/oHintClickMailBoxes.yy",},
+    {"name":"oMailNoValentine","order":7,"path":"objects/oMailNoValentine/oMailNoValentine.yy",},
+    {"name":"oMailValentine","order":8,"path":"objects/oMailValentine/oMailValentine.yy",},
+    {"name":"oOutOfMailRoom","order":4,"path":"objects/oOutOfMailRoom/oOutOfMailRoom.yy",},
+    {"name":"oPlayer","order":5,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"oScoreAmountofHearts","order":2,"path":"objects/oScoreAmountofHearts/oScoreAmountofHearts.yy",},
+    {"name":"oStartGameButton","order":4,"path":"objects/oStartGameButton/oStartGameButton.yy",},
+    {"name":"oWinScreen","order":5,"path":"objects/oWinScreen/oWinScreen.yy",},
+    {"name":"rMenu","order":2,"path":"rooms/rMenu/rMenu.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Room3","order":3,"path":"rooms/Room3/Room3.yy",},
+    {"name":"sHeart","order":1,"path":"sprites/sHeart/sHeart.yy",},
+    {"name":"sMailNoValentine","order":3,"path":"sprites/sMailNoValentine/sMailNoValentine.yy",},
+    {"name":"sMailValentine","order":4,"path":"sprites/sMailValentine/sMailValentine.yy",},
+    {"name":"sStartGameButton","order":2,"path":"sprites/sStartGameButton/sStartGameButton.yy",},
+  ],
+}
